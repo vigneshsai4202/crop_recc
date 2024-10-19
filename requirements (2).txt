@@ -1,0 +1,7 @@
+Python 3.10.12
+Pandas 1.5.3
+Numpy 1.23.5
+Seaborn 0.12.2
+Matplotlib 3.7.1
+Scikit-Learn 1.2.2
+Pickle 4.0
